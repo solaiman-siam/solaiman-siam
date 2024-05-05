@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="center">👩‍💻  A Passionate Front End Developer From BD</h4>
+<h4 align="center">👩‍💻  A passionate front-end developer from BD</h4>
 
 ###
 
