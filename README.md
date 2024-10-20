@@ -54,10 +54,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/solaiman-siam/solaiman-siam/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">Connect with me.</h3>
 
 ###
