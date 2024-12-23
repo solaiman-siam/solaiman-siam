@@ -61,7 +61,7 @@ Welcome to my GitHub profile! I'm passionate about creating visually appealing a
 
 </div>
 
-📧 Email: solaimansiam93@gmail.com 
+📧 Email: solaimansiam93@gmail.com  
 📞 Phone: +8801842947481
 
 ---
