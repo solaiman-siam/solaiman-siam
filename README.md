@@ -1,8 +1,8 @@
 <img src="https://i.ibb.co/MPmpdB7/banner.jpg" alt="Habib Ulla Banner" width="100%"> 
 
-# Habib Ulla | Frontend Web Developer 👨‍💻 
+# Solaiman Siam | Full Stack Developer 👨‍💻 
 
-Welcome to my GitHub profile! I'm passionate about creating visually appealing and user-friendly websites using cutting-edge technologies .
+Welcome to my GitHub profile! I'm passionate about creating visually appealing and user-friendly websites using cutting-edge technologies.
  
 ## 🚀 About Me
 
@@ -55,20 +55,21 @@ Welcome to my GitHub profile! I'm passionate about creating visually appealing a
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/habib-ulla/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/habib.ulla.1278/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/habib_ualla_1278/?hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdsolaiman-siam/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/solaimansiam.me)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/solaiman_siam/)
 
 </div>
 
-📧 Email: habibulla1278@gmail.com  
-📞 Phone: +8801310704365
+📧 Email: solaimansiam93@gmail.com 
+📞 Phone: +8801842947481
 
 ---
 
 <div align="center">
-  
-![Visitor Count](https://visitcount.itsvg.in/api?id=MD-HABIB-ULLA&icon=0&color=0)
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=solaiman-siam&icon=0&color=0)
+
 
 </div>
 
