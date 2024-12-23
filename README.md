@@ -48,7 +48,7 @@ Welcome to my GitHub profile! I'm passionate about creating visually appealing a
 ## 🔝 Top Contributed Repo
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=solaiman-siam&limit=5&theme=gotham&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Solaiman-Siam&limit=5&theme=gotham&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </div>
 
 ## 📫 Let's Connect
