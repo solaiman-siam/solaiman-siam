@@ -1,71 +1,76 @@
+<img src="https://i.ibb.co/MPmpdB7/banner.jpg" alt="Habib Ulla Banner" width="100%"> 
+
+# Habib Ulla | Frontend Web Developer 👨‍💻 
+
+Welcome to my GitHub profile! I'm passionate about creating visually appealing and user-friendly websites using cutting-edge technologies .
+ 
+## 🚀 About Me
+
+- 🔭 Specializing in JavaScript, React, and Tailwind CSS
+- 🎨 Transforming design concepts into interactive web applications
+- 📈 Committed to delivering high-quality websites that drive business growth
+- 🌱 Always learning and staying updated with the latest web development trends
+
+## 🛠 Tech Stack
+
 <div align="center">
-  <img height="150" src="https://i.postimg.cc/TwjfHC5s/Solaiman-Siam-3.jpg"  />
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
 </div>
 
-###
-
-<h1 align="center">HI👋, I'm Solaiman</h1>
-
-###
-
-<h4 align="center">👩‍💻  A Passionate Front End Developer From BD</h4>
-
-###
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=solaiman-siam&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-HABIB-ULLA&theme=gotham&hide_border=true" alt="GitHub Streak" />
 </div>
 
-###
-
-<p align="left">About Me<br><br>- 🔭  I'm currently working on web development technologies like JavaScript(ES6), React JS, Node JS.<br>- 📚 I'm currently learning Next.js & Material UI<br>- ⚡ Talk to me about React, Node, JavaScript, Freelancing Opportunities, etc.<br>- 📫 Reach me at solaimansiam93@gmail.com</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-HABIB-ULLA&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
-###
+## 🏆 GitHub Trophies
 
-<h3 align="left">🔥   My Stats :</h3>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MD-HABIB-ULLA&theme=gotham&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+</div>
 
-###
+## 🔝 Top Contributed Repo
 
-<h3 align="left">Connect with me.</h3>
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=MD-HABIB-ULLA&limit=5&theme=gotham&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</div>
 
-###
+## 📫 Let's Connect
 
-<div align="center"><table>
-  <tr align-"center">
-    <td valign="top"><a href="https://www.linkedin.com/in/solaimansiam" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a></td>
-    <td valign="top"><a href="https://x.com/solaimansiam" target="_blank">  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a></td>
-    <td valign="top"><a href="https://www.facebook.com/solaimansiam.me" target="_blank"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  /></a></td>
-    <td valign="top"><a href="https://www.instagram.com/solaiman_siam" target="_blank">  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /></a></td>
-  </tr>
-</table></div>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/habib-ulla/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/habib.ulla.1278/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/habib_ualla_1278/?hl=en)
+
+</div>
+
+📧 Email: habibulla1278@gmail.com  
+📞 Phone: +8801310704365
+
+---
+
+<div align="center">
+  
+![Visitor Count](https://visitcount.itsvg.in/api?id=MD-HABIB-ULLA&icon=0&color=0)
+
+</div>
 
   
 
