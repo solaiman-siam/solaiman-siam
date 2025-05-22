@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co.com/bK31cSH/Tech-banner.jpg" alt="Solaiman Siam Banner" width="100%"> 
 
-# Md Solaiman | Full Stack Developer 👨‍💻 
+# Md Solaiman | Frontend Developer 👨‍💻 
 
 Welcome to my GitHub profile! I'm passionate about creating visually appealing and user-friendly websites using cutting-edge technologies.
  
