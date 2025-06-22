@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/bK31cSH/Tech-banner.jpg" alt="Solaiman Siam Banner" width="100%"> 
+<img src="https://i.ibb.co/4wQvFNFV/linkedin-cover.png" alt="Banner" width="100%"> 
 
 # Md Solaiman | Frontend Developer 👨‍💻 
 
