@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/4wQvFNFV/linkedin-cover.png" alt="Banner" width="100%"> 
+<img src="https://i.ibb.co/4wQvFNFV/linkedin-cover.png" alt="Banner" width="100%" height="100%"> 
 
 # Md Solaiman | Frontend Developer 👨‍💻 
 
@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about creating visually appealing a
  
 ## 🚀 About Me
 
-- 🔭 Specializing in JavaScript, React, and Tailwind CSS
+- 🔭 Specialising in JavaScript, React, and Tailwind CSS
 - 🎨 Transforming design concepts into interactive web applications
 - 📈 Committed to delivering high-quality websites that drive business growth
 - 🌱 Always learning and staying updated with the latest web development trends
