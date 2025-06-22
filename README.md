@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/4wQvFNFV/linkedin-cover.png" alt="Banner" width="100%" height="100%"> 
+![Banner](https://i.ibb.co/4wQvFNFV/linkedin-cover.png)
 
 # Md Solaiman | Frontend Developer 👨‍💻 
 
