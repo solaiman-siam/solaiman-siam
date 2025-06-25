@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co/4wQvFNFV/linkedin-cover.png)
+![Banner](https://i.ibb.co/wrF1y922/cover-photo.jpg)
 
 # Md Solaiman | Frontend Developer 👨‍💻 
 
