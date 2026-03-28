@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about creating visually appealing a
  
 ## 🚀 About Me
 
-- 🔭 Specialising in JavaScript, React, and Tailwind CSS
+- 🔭 Specialising in NextJS, React, JavaScript and Tailwind CSS
 - 🎨 Transforming design concepts into interactive web applications
 - 📈 Committed to delivering high-quality websites that drive business growth
 - 🌱 Always learning and staying updated with the latest web development trends
