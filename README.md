@@ -1,6 +1,6 @@
 ![Banner](https://i.ibb.co/wrF1y922/cover-photo.jpg)
 
-# Md Solaiman | Frontend Developer 👨‍💻 
+# Solaiman Siam | Frontend Developer 
 
 Welcome to my GitHub profile! I'm passionate about creating visually appealing and user-friendly websites using cutting-edge technologies.
  
